@@ -16,6 +16,12 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Los Angeles","country":"United States","image":"unitedstates","ip":"92.223.30.39","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"test-111","country":"USA","image":"USA","ip":"92.223.30.39","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"london","ip":"104.248.29.254","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"luxemburg","ip":"104.248.29.254","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"singapore","ip":"104.248.29.254","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"germany","ip":"104.248.29.254","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"germany","ip":"104.248.29.254","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"test1","country":"Germany","image":"australia","ip":"157.245.210.193","active":"true","signal":"a"},
   ]
 }
