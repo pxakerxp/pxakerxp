@@ -16,12 +16,6 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"StarVPN-GEO","country":"Georgia","image":"Georgia","ip":"185.143.179.215","active":"true","signal":"a"},
-    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"london","ip":"104.248.29.254","active":"true","signal":"a"},
-    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"luxemburg","ip":"104.248.29.254","active":"true","signal":"a"},
-    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"singapore","ip":"104.248.29.254","active":"true","signal":"a"},
-    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"germany","ip":"104.248.29.254","active":"true","signal":"a"},
-    {"id":0, "file":0, "city":"Frankfurt","country":"Germany","image":"germany","ip":"104.248.29.254","active":"true","signal":"a"},
-    {"id":0, "file":0, "city":"test1","country":"Germany","image":"australia","ip":"157.245.210.193","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"StarVPN-GEO","country":"Georgia","image":"georgia","ip":"185.143.179.215","active":"true","signal":"a"},
   ]
 }
