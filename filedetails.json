@@ -14,7 +14,8 @@ auth SHA1
 cipher AES-256-CBC
 ignore-unknown-option block-outside-dns
 verb 3
-auth-user-pass clientpass
+auth-user client 
+auth-pass clientpass
 <ca>
 -----BEGIN CERTIFICATE-----
 MIID0TCCArmgAwIBAgIIKA0KjPepw7owDQYJKoZIhvcNAQELBQAwWTELMAkGA1UE
