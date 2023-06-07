@@ -17,6 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"StarVPN-GEO","country":"germany","image":"germany","ip":"185.143.179.215","active":"true","signal":"a"},
-    {"id":0, "file":0, "city":"StarVPN-GEO","country":"georgia","image":"georgia","ip":"185.143.179.215","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"StarVPN-GEO","country":"japan","image":"japan","ip":"185.143.179.215","active":"true","signal":"a"}
   ]
 }
